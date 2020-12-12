@@ -1,5 +1,5 @@
 ## Hey, I'm Duncan
 
-- 🔨 I’m currently working on NLP tools and Product Development as an intern @[FactSquared](https://factsquared.com)
-- 🌱 I’m currently learning about designing web applications at scale
+- 🔨 I’m currently working on machine vision and NLP tools as an intern @[FactSquared](https://factsquared.com)
+- 🌱 I’m currently learning about data streams, microservices, and Javascript design patterns
 - 💬 Ask me about Javascript, Python and student-run startups 
